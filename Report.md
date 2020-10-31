@@ -24,7 +24,7 @@
  Для тестирования такого большого числа переменная int не подходит,
  переменная int  хранит числа — 4 байта, от -2 147 483 648 до 2 147 483 647 
  ##### В результате тестирования выявлены следующие дефекты: 
- https://github.com/ElenaDom/Java-Money-Transfer/issues/new
+https://github.com/ElenaDom/Java-Money-Transfer/issues/1
 
 ## Общие рекомендации
 
